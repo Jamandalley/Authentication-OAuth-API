@@ -6,7 +6,7 @@ sphinx:
 
 # Define the version of Python to use
 python:
-  version: 3.11
+  version: "3.11"
   install:
     - requirements: requirements.txt
 
@@ -15,9 +15,7 @@ build:
   image: latest
 
 # Build documentation in the docs/ directory with Sphinx
-formats:
-  - html
-  - pdf
+formats: pdf
 
 # Settings for MkDocs, if applicable
 # mkdocs:
