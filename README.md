@@ -51,8 +51,8 @@ The `AuthenticationAPI` provides endpoints for user authentication functionaliti
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/Jamandalley/Authentication-OAuth-API/tree/master
+    cd Authentication-OAuth-API
     ```
 
 2. Create and activate a virtual environment:
