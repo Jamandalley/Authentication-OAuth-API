@@ -22,12 +22,6 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# extensions = ['sphinx.ext.autodoc', 'sphinx.ext.doctest',
-#               'sphinx.ext.intersphinx', 'sphinx.ext.todo',
-#               'sphinx.ext.ifconfig', 'sphinx.ext.viewcode',
-#               'sphinx.ext.inheritance_diagram', 'sphinx.ext.napoleon',
-#               'sphinx.ext.autosummary', 'sphinx_autodoc_typehints',]
-
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.autodoc',
