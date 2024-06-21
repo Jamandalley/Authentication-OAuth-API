@@ -1,0 +1,21 @@
+.. AuthAPI package
+.. ===============
+
+.. Submodules
+.. ----------
+
+.. AuthAPI.main module
+.. -------------------
+
+.. .. automodule:: AuthAPI.main
+..    :members:
+..    :undoc-members:
+..    :show-inheritance:
+
+.. Module contents
+.. ---------------
+
+.. .. automodule:: AuthAPI
+..    :members:
+..    :undoc-members:
+..    :show-inheritance:
